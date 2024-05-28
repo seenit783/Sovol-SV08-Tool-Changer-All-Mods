@@ -1,0 +1,41 @@
+This will be a comprehensive compilment of Mod's, Macro's and everything else related to the Sovol Sv08.
+
+You can contribute by making a pull-request, creating an issue, or starting a discussion.
+
+None of the links found here are affiliate links.
+
+I am using this as an outline to place a catalog of mods that I find.
+
+
+
+Just Received Your Printer? You should probably:
+
+  Update your firmware before you do anything else. There is a new firmware available since the printer first started shipping which is reported to possibly fix some print issues and error codes.
+     Purchase a https://www.amazon.com/dp/B0CQLVNZZC?psc=1&ref=ppx_yo2ov_dt_b_product_details
+    This will ensure that you can revive your emmc should you brick it.
+
+
+
+Outline
+
+  1.Printed Upgrades
+    
+    a. Alternative More Printable SV08 Toolhead Cover by ectoBRUH
+      1.Print your own more easily with this model. https://www.printables.com/model/850271-sovol-sv08-alternative-toolhead-cover
+    b. SOVOL SV08 M12 Inductive Probe Mount LJ12A3-4-Z/AX
+      1. https://www.printables.com/model/870302-sovol-sv08-m12-inductive-probe-mount-lj12a3-4-zax
+    c. Klicky Probe Mod by Nadir
+      1. Klicky probe is picked up by the printhead to be used for leveling then put back in a holder before printing. Klicky probes 
+         are typical on Voron 2.4 printers and ensure that you will get repeatable measurements on both a cold start heatsoaked after hours printing.
+      2. https://www.printables.com/model/849409-klicky-probe-for-sovol-sv08-abl
+          a. Other Info
+            1. https://www.reddit.com/r/Sovol/comments/1c82929/klicky_probe_mod_for_sovol_sv08/
+  2. Modifications
+     a. Cheaper HDMI Touchscreen
+        1. https://a.co/d/9QO7IUP
+     b. Din Rail for added electronics
+        2. https://www.printables.com/model/867676-sovol-sv08-recessed-din-rail-mount-bracket
+     c. Changing Stock inductive probe for more consistent z-offset
+
+    
+
